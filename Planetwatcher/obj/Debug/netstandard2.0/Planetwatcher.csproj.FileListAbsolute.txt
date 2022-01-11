@@ -1,0 +1,13 @@
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\bin\Debug\netstandard2.0\Planetwatcher.deps.json
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\bin\Debug\netstandard2.0\Planetwatcher.dll
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\bin\Debug\netstandard2.0\Planetwatcher.pdb
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\Planetwatcher.csprojAssemblyReference.cache
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\Planetwatcher.AssemblyInfoInputs.cache
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\Planetwatcher.AssemblyInfo.cs
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\Planetwatcher.csproj.CoreCompileInputs.cache
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\Planetwatcher.dll
+C:\Users\eX_Di\git\Planetwatcher\Planetwatcher\Planetwatcher\obj\Debug\netstandard2.0\Planetwatcher.pdb

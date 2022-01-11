@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLwgkt1jvrRHjsAtwIRbnIBwu+hiTZGH2KSmUS9uHNNNhY66PgtrafhpZHC45QK5kKjAed9DuaaHz1+yN+h5KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eX_Di\\git\\Planetwatcher\\Planetwatcher\\Planetwatcher.iOS\\Planetwatcher.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eX_Di\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\plugin.firebasepushnotification\\3.3.10\\plugin.firebasepushnotification.3.3.10.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\xamarin.firebase.ios.cloudmessaging\\4.3.0\\xamarin.firebase.ios.cloudmessaging.4.3.0.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\xamarin.firebase.ios.core\\6.6.6\\xamarin.firebase.ios.core.6.6.6.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\xamarin.firebase.ios.installations\\1.1.1\\xamarin.firebase.ios.installations.1.1.1.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\xamarin.firebase.ios.instanceid\\4.3.3\\xamarin.firebase.ios.instanceid.4.3.3.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
